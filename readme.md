@@ -1,18 +1,18 @@
-## Update-all-Remote
-# useful for migrating from one remote to another
+# Update-all-Remote
+## useful for migrating from one remote to another
 
-## clone-all-github
-# useful to clone down all of your github repos at once
+# clone-all-github
+## useful to clone down all of your github repos at once
 
-## pull-all
-# pulls changes from remote to all local repos
+# pull-all
+## pulls changes from remote to all local repos
 
-## push-all
-# pushes changes from all local repos to remote
+# push-all
+## pushes changes from all local repos to remote
 
 
-## delete-list-repos
-# useful for bulk deleting github repos
+# delete-list-repos
+## useful for bulk deleting github repos
 
 - Open in a new tab all to-be-deleted github repos https://github.com/username?tab=repositories
 - Use onetab https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall to shorten them to a list.
